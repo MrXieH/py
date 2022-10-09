@@ -32,3 +32,4 @@ for data in [b'Michael', b'Tracy', b'Sarah']:
 s.close()
 # 从服务器接收数据仍然调用recv()方法。
 ```
+
